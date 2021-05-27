@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Paseo de Palomas
+tagline: Electrical Upgrade Plan
 featuredImage: /assets/blake-wisz-tcgassd5g04-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+**Paseo de Palomas was built in the 1960’s, before personal computers, smart appliances, multiple television sets, microwave ovens, toaster ovens, and other electric appliances were in common use, or even existed.**
