@@ -14,7 +14,7 @@ description: >
   Electric main service from PG&E entrance to the park owned substations
 
   Buried electric cable from park substations to the coach connections
-featuredImage: /assets/team-cats.jpg
+featuredImage: /assets/loan-v4.png
 ---
 The park’s purchase mortgage was paid in full in 2014. Rather than reduce the monthly rent by $146 per resident, the board at the time wisely decided to start allocating that amount to the Sustained Maintenance Reserves (SMR) fund. That allowed the fund to grow by $186,000 per year, minus planned SMR expenses. 
 
